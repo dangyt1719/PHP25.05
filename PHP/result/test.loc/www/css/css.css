@@ -1,0 +1,167 @@
+body{
+	
+	background-image:url("../img/1.jpg");
+	background-repeat: no-repeat;
+	background-size:cover;	
+}
+a{
+    color: #fff;
+}
+a:hover{
+    text-decoration: none;
+    
+}
+h1{
+    color:  #fff;
+}
+h1:hover{
+    text-decoration: none;
+    
+}
+h2{
+    color: #fff;
+}
+h2:hover{
+    text-decoration: none;
+    
+}
+h3{
+    color: #fff;
+}
+h3:hover{
+    text-decoration: none;
+    
+}
+
+.container{
+   width: 550px;
+   height: 500px;
+   background-color: rgb(24,33,52,0.7);
+   margin: 120px auto 0 auto;
+   text-align: center;
+   border-radius: 10px 10px 10px 10px;
+}
+.container img{
+    width: 550px;
+    height: 120px;
+    margin:-20px 0 30px 0;
+   
+    border-radius: 0%;
+}
+.s_href{
+    padding: 13px 30px;
+    margin: 5px 0 11px 0;
+    color: #fff;
+    border: none;  
+    
+}
+.container2{
+   width: 450px;
+   height: 450px;
+   background-color: rgb(24,33,52,0.7);
+   margin: 150px auto 0 auto;
+   text-align: center;
+   border-radius: 10px 10px 10px 10px;
+}
+.container2 img{
+    width: 450px;
+    height: 89px;
+    margin:-20px 0 30px 0;
+   
+    border-radius: 0%;
+}
+input[type="text"], input[type="text"], input[type="text"]{
+    width: 200px;
+    height: 40px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    border-radius: 4px;
+    padding-left: 10px;
+}
+.s_submit{
+    padding: 13px 30px;
+    margin: 5px 0 10px 0;
+    font-size: 15px;
+    color: #fff;
+    background-color: #2ca8c6;
+    border: none;   
+}
+.container3{
+   width: 1000px;
+   height: 600px;
+   background-color: rgb(24,33,52,0.7);
+   margin: 50px auto 0 auto;
+   text-align: center;
+   border-radius: 10px 10px 10px 10px;
+}
+.container3 img{
+    width: 1000px;
+    height: 150px;
+    margin:-20px 0 30px 0;
+   
+    border-radius: 0%;
+}
+.container4{
+   width: 800px;
+   height: 600px;
+   background-color: rgb(24,33,52,0.7);
+   margin: 50px auto 0 auto;
+   text-align: center;
+   border-radius: 10px 10px 10px 10px;
+}
+.container4 img{
+    width: 800px;
+    height: 150px;
+    margin:-20px 0 30px 0;
+   
+    border-radius: 0%;
+}
+.container5{
+   width: 800px;
+   height: 600px;
+   background-color: rgb(24,33,52,0.7);
+   margin: 50px auto 0 auto;
+   text-align: center;
+   border-radius: 10px 10px 10px 10px;
+   
+}
+.container5 table{
+   margin: 0px auto 0 auto;
+    width: 650px;
+    height: 100px;
+    border: 2px solid black;
+   
+    
+    
+}
+.container5 TD, TH 
+{
+    padding: 5px; /* Поля вокруг текста */
+    border: 1px solid #fff; /* Рамка вокруг ячеек */
+}
+.container5 td
+{
+    margin: 10px 0 10px 0;
+    color: #87CEEB;
+}
+.container5 th
+{
+   
+    color: #1E90FF;
+}
+.scrolltable 
+{
+   
+   height: 500px;
+   overflow: scroll; 
+   overflow-x: hidden; 
+   
+
+}
+.scrolltable thead
+{
+  
+   margin: 0px 10px 0px 230px;
+   position: fixed; 
+}
+

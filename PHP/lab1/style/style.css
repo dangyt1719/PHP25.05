@@ -1,0 +1,49 @@
+
+#telo1 {
+	
+	background-image:url(img/sign_up.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;	
+}
+#telo2 {
+	
+	background-image:url(img/auth.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;	
+}
+#telo3 {
+	
+	background-image:url(img/index.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;	
+}
+#telo4 {
+	
+	background-image:url(img/aut.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;	
+}
+#button_sign {
+
+	width: 70%;
+	display: block;
+	padding: 5px;
+	margin: 0 0 0 20px;
+}
+#subscribe,
+#login{
+    position: absolute;
+    top: 0px;
+    width: 88%;
+    padding: 18px 6% 60px 6%;
+    margin: 0 0 35px 0;
+    background: rgb(247, 247, 247);
+    border: 1px solid rgba(147, 184, 189,0.8);
+    box-shadow:
+        0pt 2px 5px rgba(105, 108, 109,  0.7),
+        0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+    border-radius: 5px;
+}
+#login{
+    z-index: 22;
+}
